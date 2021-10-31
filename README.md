@@ -1,1 +1,8 @@
-# crypto-manga-contracts
+# Setup
+
+`npx hardhat build`
+
+
+# Test
+
+`npx hardhat test`
